@@ -1,4 +1,4 @@
 *.DS_Store
 *-backups*
-jlcpcb/gerber/*
-jlcpcb/production_files/*
+KiCad/jlcpcb/gerber/*
+KiCad/jlcpcb/production_files/*
